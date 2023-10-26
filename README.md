@@ -1,4 +1,4 @@
-# SPA with React and Laravel
+# Laravel API for a React SPA
 
 A basic Laravel API using Sanctum for authentication. The frontend uses React.
 
