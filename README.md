@@ -4,7 +4,7 @@ A basic Laravel API using Sanctum for authentication. The frontend uses React.
 
 The React SPA is available in the [react-sanctum-api](https://github.com/codeadamca/react-sanctum-api) repo.
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 ***
